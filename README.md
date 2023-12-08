@@ -1,3 +1,3 @@
 # dsa-projects
  Data Science/ Analysis projects
-Este trata-se de um projeto da Formação Cientista de Dados da Data Science Academy.
+(this is a project from the Data Science Academy's Data Scientist training)
